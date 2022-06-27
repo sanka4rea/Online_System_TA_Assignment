@@ -1,0 +1,27 @@
+Dear `r student.name`,
+
+We are pleased to invite you to participate in the Teaching Assistant (TA) Assignment for the academic year 2021-22. **Please log on to the Online TA Assignment System (http://xxxxxxxxxxx) to submit your TA preferences by <u>25 July 2021</u>**. Your username and password are listed below.
+
+Your username and password: (There is no space in front)
+  - Username: `r student.username`  
+  - Password: `r student.passwd` 
+
+You may wish to note the following points before submission of your preferences in the system:
+
+ · Read the descriptions and expected TA duties of individual courses on the system.
+ 
+ · You are encouraged to discuss the TA duties with your supervisors in advance.
+ 
+ · Some courses will be offered in the evening or Saturday to accommodate the part-time MSc students..
+
+ · You will be asked to submit up to 3 course preferences, according to your strength and research interest. Please follow the step-by-step instructions on how to submit your preferences on the system.
+
+After collecting your preferences the system will assign a course to you for each semester, giving consideration to your indicated preferences and number of vacancies. In order to have a better chance for successful allocation, it is strongly suggested that you should indicate as many choices as possible. If you do not submit any preferences during the period, or the course(s) you have selected have all been filled up, the system will randomly assign a course to you.
+
+The results for TA assignment will be released in early August via email.
+
+If you have any questions, please feel free to contact General Office. Thank you.
+
+**This is an automatically generated email, please do not reply.**
+
+Best regards  

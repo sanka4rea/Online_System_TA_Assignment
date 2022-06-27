@@ -1,0 +1,15 @@
+Dear `r student.name`
+ 
+Thank you for letting us know your preference for the TA Assignment Exercise 2021-22. Below is the allocation results. **Please contact the Course Leader(s) for teaching arrangement by <u>11 August 2021 (Wednesday)</u>**.
+
+```{r results='asis', echo=FALSE}
+print(xtable::xtable(res, align=rep("l", ncol(res)+1)), type="html", include.rownames=F, html.table.attributes ="border=1")
+```
+
+Kindly check any possible time conflict between the schedule of your assigned TA duties and courses you may take in AY2021-22.  If yes, please inform the course leader(s) accordingly.
+
+If you have any questions, please contact
+
+
+Best regards  
+

@@ -1,0 +1,19 @@
+Dear `r cl.name`,
+ 
+Thank you for letting us know the TA requirements of your course(s) in AY2021-22 earlier.  
+ 
+The TA allocation process is now finished. We are pleased to let you know the allocation results as below. Please kindly confirm the results <u>on or before 12:00noon of 6 August 2021 (Friday)</u> by replying an email to General Office. If we do not hear from you by <u>the said time</u>, we would assume that you are satisfied with the results.  
+
+
+```{r results='asis', echo=FALSE}
+print(xtable::xtable(res, align=rep("l", ncol(res)+1)), type="html", include.rownames=F, html.table.attributes ="border=1")
+```
+
+
+The confirmed allocation results will be announced to individual TA accordingly.
+
+If you have any questions, please contact of General Office at ext. or .edu.hk.  
+
+
+Best regards  
+
