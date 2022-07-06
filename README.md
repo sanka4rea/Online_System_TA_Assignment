@@ -15,9 +15,15 @@ Used for backup and explaination to lab members.</font>
    
 4. 开启rstudioserver，ssh, `cd /etc/init.d` + `./rstudio-server start` + `./ssh start`. (shiny默认开启)
    
+<<<<<<< HEAD
 5. 此时拥有此容器的root权限，可以新增用户（现在Rstudio：user：`xxxx`, pw:`xxxx`）
    
 6. 登录rstudio web，端口: 67:5001 ，进行coding/testing或者本地testing，用户名和密码都是`xxxx`, 在`/home/xxxx/shiny`中或者本地进行调试，确认后将最终版本更新到`/srv/shiny-server/BMS_TA`中
+=======
+5. 此时拥有此容器的root权限，可以新增用户（现在Rstudio：user：``, pw:``）
+   
+6. 登录rstudio web，端口: 67:5001 ，进行coding/testing或者本地testing，用户名和密码都是``, 在`/home/qilin/shiny`中或者本地进行调试，确认后将最终版本更新到`/srv/shiny-server/BMS_TA`中
+>>>>>>> bb9174ba8b31a1a41a8c8f13d71f4e7450b1f617
    
 7. shiny web：http://xxxxxxxx (正式对外地址，对应`/srv/shiny-server/BMS_TA`,testing时确保**不要真的发出去邮件**,去除excel中的邮箱信息)
 
