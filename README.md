@@ -1,8 +1,8 @@
 # Online R-shiny system of TA Assignment
 <font size=4>
 
-Key codes for the very simple Online System for TA Assignment based on R shiny. 
-Used for backup and explaination to lab members.</font>
+Key codes for the simple Online System for TA Assignment based on R shiny. 
+Used for backup and explaination to lab members. No private infos were covered.</font>
 
 
 ## 1. Prerequisites 
